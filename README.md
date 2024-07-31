@@ -1,4 +1,4 @@
-1) Get API key for website below (create free account)
+1) Get API key for website (create free account)
 https://optimistic.etherscan.io/
 
 2) Search for transactions using Binary Coin
