@@ -7,5 +7,7 @@ Current code can get simple transactions and can visualize it on a development s
 
 Need to handle these cases:
 - Holders transfer to each other
-- After completing one chain move to the next chain (using source wallet address
+- After completing one chain move to the next chain
 - Push to production 
+
+See spreadsheet for reference
